@@ -24,7 +24,7 @@ h1{
 
 /* main */
 
-#highlight{
+.highlight{
     background-color: yellow;
 }
 ul{
@@ -39,4 +39,25 @@ ul{
 }
 .sezione{
     padding-right: 200px;
+}
+
+/* footer */ 
+h3{
+    color: #888888;
+}
+#img1{
+    font-weight: 300;
+    color: white;
+    height: 110px;
+    background-image: url("../img/monitor.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#img2{
+    font-weight: 300;
+    color: white;
+    height: 110px;
+    background-image: url("../img/graph.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
 }
