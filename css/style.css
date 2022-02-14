@@ -12,9 +12,18 @@
     position: relative;
     top: 50px;
 }
+h1{
+    font-size: 30px;
+}
 .sotto-titolo{
     color: #888888;
 }
 .blu{
     color: #52bceb;
+}
+
+/* main */
+
+#highlight{
+    background-color: yellow;
 }
