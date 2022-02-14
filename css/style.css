@@ -30,3 +30,13 @@ h1{
 ul{
     padding-left: 15px;
 }
+.first_row{
+    color: white;
+    background-color: #20a9e5;
+}
+.colored_row{
+    background-color: #b1e5f2;
+}
+.sezione{
+    padding-right: 200px;
+}
