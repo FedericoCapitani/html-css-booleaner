@@ -35,6 +35,7 @@ ul{
 }
 .first_row{
     color: white;
+    text-align: left;
     background-color: #20a9e5;
 }
 .colored_row{
