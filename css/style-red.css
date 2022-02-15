@@ -1,0 +1,73 @@
+/* header */
+
+.banner{
+    background-image: url("../img/pattern.png");
+    background-size: contain;  
+    background-color: var(--main-color);
+    height: 100px;
+}
+#logo{
+    width: 300px;
+    height: 50px;
+    position: relative;
+    top: 50px;
+}
+h1{
+    font-size: 30px;
+}
+.sotto-titolo{
+    color: #888888;
+}
+.blu{
+    color: #52bceb;
+}
+
+/* main */
+
+:root{
+    --main-color: #ff4e4e;
+    --heading-color: #e41616;
+    --secondary-color: #f07272;
+}
+
+.highlight{
+    background-color: yellow;
+}
+table{
+    border-spacing: 0px;
+}
+ul{
+    padding-left: 15px;
+}
+.first_row{
+    color: white;
+    text-align: left;
+    background-color: var(--heading-color);
+}
+.colored_row{
+    background-color: var(--secondary-color);
+}
+.sezione{
+    padding-right: 200px;
+}
+
+/* footer */ 
+h3{
+    color: #888888;
+}
+#img1{
+    font-weight: 300;
+    color: white;
+    height: 110px;
+    background-image: url("../img/monitor.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#img2{
+    font-weight: 300;
+    color: white;
+    height: 110px;
+    background-image: url("../img/graph.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
