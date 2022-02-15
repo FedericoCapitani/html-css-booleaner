@@ -27,6 +27,9 @@ h1{
 .highlight{
     background-color: yellow;
 }
+table{
+    border-spacing: 0px;
+}
 ul{
     padding-left: 15px;
 }
